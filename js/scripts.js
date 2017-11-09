@@ -11,3 +11,5 @@ if (value > 0) {
 } else {
 	console.log('wynik równy 0');
 }
+
+//only a pull request change
