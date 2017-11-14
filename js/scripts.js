@@ -9,5 +9,5 @@ if (value > 0) {
 } else if (value < 0 ) {
     console.log('wynik ujemny');
 } else {
-	console.log('wynik równy 0');
+	console.log('inny wynik');
 }
